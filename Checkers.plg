@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Checkers - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/Checkers.res" /d "_DEBUG" "D:\avm\software\Checkers\Checkers.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.PRA\LOCALS~1\Temp\RSPC8.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Checkers.pdb" /debug /machine:I386 /out:"Debug/Checkers.exe" /pdbtype:sept 
+.\Debug\Checkers.obj
+.\Debug\CheckersDoc.obj
+.\Debug\CheckersView.obj
+.\Debug\HowToPlay.obj
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\Checkers.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1.PRA\LOCALS~1\Temp\RSPC8.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Checkers.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
